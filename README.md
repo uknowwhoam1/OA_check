@@ -3,4 +3,4 @@
 需要requests模块
 
 使用：
-    python3 Beanshell_rce.py
+    python3 OA_check.py
